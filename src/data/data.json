@@ -1,0 +1,165 @@
+{
+  "Header": {
+    "title": "Welcome to SIRA web services",
+    "paragraph": "You are not ALONE here.     We are there to build your PROFESSIONAL BUSINESS website in 72 hours starting from INR 10k (5 PAGES+FREE DOMAIN+HOSTING+SSL INCLUDED)"
+  },
+  "About": {
+    "paragraph": "Started by 4  TECH-SAVY  youngsters and now we are the fastest growing web services company , now with 20+ employees and 45+ freelancers and serving 500+ clients as of today. We are really proud of our company by crediting  very positive feedback from every client we served. ",
+    "Why": [
+      "FREE DOMAIN",
+      "FREE HOSTING",
+      "FREE SSL CERTIFICATE",
+      "MANAGING WEBSITES AT NOMINAL PRICES"
+    ],
+    "Why2": [
+      "100% CUSTOMER SATISFATION",
+      "EXPERIENCED TEAM",
+      "WE WILL GUIDE  PROPERLY YOU HOW TO MANAGE",
+      "CHEAP AND BEST PRICES"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "E-COMMERCE",
+      "largeImage": "img/portfolio/01-small.jpg",
+      "smallImage": "img/portfolio/ecommerce.png"
+    },
+    {
+      "title": "RESORTS",
+      "largeImage": "img/portfolio/02-small.jpg",
+      "smallImage": "img/portfolio/resorts.jpeg"
+    },
+    {
+      "title": "PHOTOGRAOHY",
+      "largeImage": "img/portfolio/03-small.jpg",
+      "smallImage": "img/portfolio/photography.jpeg"
+    },
+    {
+      "title": "LOCAL VENDOR BUSINESS",
+      "largeImage": "img/portfolio/04-small.jpg",
+      "smallImage": "img/portfolio/cofee.jpeg"
+    },
+    {
+      "title": "EDUCATIONAL INSTITUTES",
+      "largeImage": "img/portfolio/05-small.jpg",
+      "smallImage": "img/portfolio/schools_colleges.jpeg"
+    },
+    {
+      "title": "RESTAURANTS",
+      "largeImage": "img/portfolio/06-small.jpg",
+      "smallImage": "img/portfolio/restaurant.jpeg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "WEBSITE DEVELOPMENT",
+      "text": "Starting at INR 10K (5+PAGES +1 REVISION).INR 15K (10+PAGES +3 REVISION).INR 25K (20+PAGES + UNLIMITED REVISION).FREE DOMAIAN AND SSL FOR EVERY PLAN."
+    },
+    {
+      "icon": "fa fa-cloud",
+      "name": "DOMAIN AND HOSTING",
+      "text": "This service at FREE OF COST for every of our client."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "name": "LOGO-DESIGNING",
+      "text": "You can avial free pre-designed logos  and can get premium logos at nominal cost."
+    },
+    {
+      "icon": "fa fa-car",
+      "name": "WEBSITE- MANAGING",
+      "text": "We will manage your websites starting INR 250 per month."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "SEO AND SOCIAL MEDIA MARKETING",
+      "text": "Our digital marketing team will help you in social market campiagns."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "API AS PRODUCTS",
+      "text": "We are yet to start API AS PRODUCTS . We are  very much  excited that we have started our own team and we will launch AS-SOON-AS-POSSIBLE ."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "",
+      "text": "Oh my god , services were marvellous . Hosting and domains were free. Response time revisions are good. thank you for your logos and seo . thank you sira.....",
+      "name": "Sridhar sreekaran"
+    },
+    {
+      "img": "",
+      "text": "Finally got the best solution for setting up my restaurant business website.",
+      "name": "Martin"
+    },
+    {
+      "img": "",
+      "text": "social media campigning team helped me lot in making my google ads much productive..",
+      "name": "Swetha shetty"
+    },
+    {
+      "img": "",
+      "text": "Hosting and  domain names are free . they are giving us the databases for free. Thanks sira for you services",
+      "name": "Akash Jain"
+    },
+    {
+      "img": "",
+      "text": "Im finally free from managing my website. they are looking my website at very cheaper price so that i can totally concentrate on my bussiness",
+      "name": "Ritesh Agarwal"
+    },
+    {
+      "img": "",
+      "text": "The logo designs were too good. The services were too good . Thankyou sira for you services",
+      "name": "Selvaraj"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/raj.jpg",
+      "name": "AYYAPPA RAJ",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/venky.jpg",
+      "name": "VENKATESH",
+      "job": "MANAGER- FrontEnd Development Team"
+    },
+    {
+      "img": "img/team/sai.jpg",
+      "name": "SAIRAM",
+      "job": "MANAGER- BackEnd Development Team"
+    }
+    
+  ],
+  "Contact": {
+    "address": "42/56, Ramnagar, Dwarakanagar,Visakhapatnam,AndhraPradesh,India - 530016",
+    "phone": "8914820485",
+    "email": "sira@webdev.com",
+    "facebook": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "DESIGNING",
+      "text": "Designing  a customizable website according to your bussiness idea with professional and smooth templates."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "DEVELOPING",
+      "text": "Developing the websites with new age front end technologies(REACT.JS , NEXT.JS). "
+    },
+    {
+      "icon": "fa fa-cloud",
+      "title": "HOSTING",
+      "text": "  HOSTING at FREE of cost  ."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "MANAGING",
+      "text": "Feeling tired of managing a website . we are there for you to manage your website a nominal cost"
+    }
+  ]
+}
